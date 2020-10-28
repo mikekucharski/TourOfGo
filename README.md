@@ -1,0 +1,3 @@
+- Code samples from the [tour of go](https://tour.golang.org/)
+- Build with `go build -o driver.exe` 
+- Run with `./driver.exe` 
